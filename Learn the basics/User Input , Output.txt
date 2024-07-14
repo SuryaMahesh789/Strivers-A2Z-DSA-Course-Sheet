@@ -1,0 +1,108 @@
+C++ Basic Input/Output
+
+
+#include<iostream>
+
+int main() {
+    // Your code here
+    return 0;
+}
+
+
+
+#include<iostream>
+
+int main() {
+    std::cout << "Hey, Striver!";
+    return 0;
+}
+
+
+
+#include<iostream>
+
+int main() {
+    std::cout << "Hey, 
+Striver!";
+    std::cout << "Hey, 
+Striver!";
+    return 0;
+}
+
+
+
+#include<iostream>
+
+int main() {
+    std::cout << "Hey, 
+Striver!" << "\n";
+    std::cout << "Hey, 
+Striver!";
+    return 0;
+}
+
+
+#include<iostream>
+
+int main() {
+    std::cout << "Hey, 
+Striver!" << std::endl;
+    std::cout << "Hey, 
+Striver!";
+    return 0;
+}
+
+
+
+#include<iostream>
+using namespace std;
+
+int main() {
+    cout << "Hey, 
+Striver!" << :endl;
+    cout << "Hey, 
+Striver!";
+    return 0;
+}
+
+
+#include<iostream>
+using namespace std;
+
+int main() {
+    int x;
+    cin >> x;
+    cout << "Value of x: " << x;
+    return 0;
+}
+
+
+
+#include<iostream>
+using namespace std;
+
+int main() {
+    int x;
+    int y;
+    cin >> x >> y;
+    cout << "Value of x: " << x << “ and y: “ <<y;
+    return 0;
+}
+
+
+//When you run this program, it waits for two separate inputs from the user, which should be entered one after the other, separated by spaces or Enter key presses. Here's how it works:
+
+
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int x;
+    int y;
+    cin >> x >> y;
+    cout << "Value of x: " << x << “ and y: “ <<y;
+    return 0;
+}
+
+
